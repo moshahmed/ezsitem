@@ -1,3 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 						<!-- generator="ezCMS" -->
-						<!-- sitemap-generator-url="http://www.hmi-tech.net" sitemap-generator-version="2.0" --><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>http://ezsite.local/index.html</loc></url><url><loc>http://ezsite.local/contact.html</loc></url><url><loc>http://ezsite.local/about.html</loc></url><url><loc>http://ezsite.local/sitemap.html</loc></url><url><loc>http://ezsite.local/search.html</loc></url></urlset>
+						<!-- sitemap-generator-url="http://www.hmi-tech.net" sitemap-generator-version="2.0" -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://ezsite.local/index.html</loc>
+</url>
+<url>
+<loc>http://ezsite.local/contact.html</loc>
+</url>
+<url>
+<loc>http://ezsite.local/about.html</loc>
+</url>
+<url>
+<loc>http://ezsite.local/sitemap.html</loc>
+</url>
+<url>
+<loc>http://ezsite.local/search.html</loc>
+</url>
+</urlset>
