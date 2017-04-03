@@ -6,9 +6,6 @@
 	$databaseUser   = 'root';
 	$databasePasswd = '';	
 	$databaseName   = 'ezsite_db';
-         $databaseUser   = 'ezsite_user';
-         $databasePasswd = 'mosh123';
-	
 	
 // Do not edit the code below as it is common to the CMS
 	// Expire the headers
